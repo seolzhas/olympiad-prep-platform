@@ -39,7 +39,7 @@ Open the website in any browser, create an account and start with the first modu
 ## Getting started (for developers)
 
 ```bash
-git clone https://github.com/<your-username>/olympiad-prep-platform.git
+git clone https://github.com/seolzhas/olympiad-prep-platform.git
 cd olympiad-prep-platform
 ```
 
@@ -62,8 +62,8 @@ We collect as little data as possible and never sell it or show ads. See [PRIVAC
 
 This project is owned and maintained by its student team:
 
-- Olzhas Sengaliyev — business, finance, project coordination
-- Dmitriy Cherepkov — research and product
+- Olzhas Sengaliyev — business, finance, project coordination, research and product
+
 
 Copyright © 2026 the Olympiad Prep Platform team. Contact: open an issue in this repository.
 
